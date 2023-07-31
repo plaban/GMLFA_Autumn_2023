@@ -6,7 +6,7 @@ permalink: /project/
 
 **Project Timeline Flowchart**
 
-![](/_images/Project_cropped.jpg)
+To be updated soon.
 
 **Proposal Format**
 
