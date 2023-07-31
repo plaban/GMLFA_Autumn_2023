@@ -4,8 +4,8 @@ course_description: "Graphs have widely been used in representing problem scenar
 
 course_semester: "Autumn,2023"
 
-baseurl: "/gmlfa-ai60007-autumn23" # the subpath of your site, e.g. /blog/
-url: "http://ainimesh.github.io/" # the base hostname & protocol for your site
+baseurl: "/GMLFA_Autumn_2023" # the subpath of your site, e.g. /blog/
+url: "http://plaban.github.io/" # the base hostname & protocol for your site
 
 schoolname: "CoE-AI, IIT Kharagpur"
 schoolurl: "http://www.ai.iitkgp.ac.in/"
