@@ -3,21 +3,21 @@ layout: home
 ---
 <h2 style="color: #da7b93;"><b>Course Logistics</b></h2>
 
-- **Lecture Hours:** `Thursday [03:00 PM to 04:55 PM] (2 Hrs)` and `Friday [03:00 PM to 03:55 PM] (1 Hr)`.
-- **Classroom:** Classes will happen in person in the `NC-421`.
+- **Lecture Hours:** `Monday [10:00 AM to 10:55 AM] (1 Hr)` and `Wednesday [08:00 AM to 09:55 AM] (2 Hrs)`.
+- **Classroom:** Classes will happen in person in the `NC-311`.
 - **L-T-P & Credits:** `3-0-0` & `3 Credits`.
 
 <h2 style="color: #da7b93;"><b>Mid-Semester Exam Schedule</b></h2>
 
-- **Exam Date:** `Thursday, 29-09-2022`.
-- **Time Slot:** `09:00 AM to 11:00 AM (2 Hrs)`.
-- **Venue:** `NC-122`.
+- **Exam Date:** 
+- **Time Slot:** 
+- **Venue:**
 
 <h2 style="color: #da7b93;"><b>End-Semester Exam Schedule</b></h2>
 
-- **Exam Date:** `Friday, 25-11-2022`.
-- **Time Slot:** `02:00 PM to 05:00 PM (3 Hrs)`.
-- **Venue:** `NC-322`.
+- **Exam Date:** 
+- **Time Slot:** 
+- **Venue:** 
 
 <h2 style="color: #da7b93;"><b>Grading Policy</b></h2>
 - Semester Examinations:
