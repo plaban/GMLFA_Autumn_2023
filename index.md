@@ -21,9 +21,9 @@ layout: home
 
 <h2 style="color: #da7b93;"><b>Grading Policy</b></h2>
 - Semester Examinations:
-    - Mid-Semester Examination: [30%]
-    - End-Semester Examination: [40%]
-- Assignment: [10%]
+    - Mid-Semester Examination: [25%]
+    - End-Semester Examination: [35%]
+- Assignment: [20%]
 - Project: [20%]
 
 <h2 style="color: #da7b93;"><b>Prerequisites</b></h2>
