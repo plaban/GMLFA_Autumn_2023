@@ -9,7 +9,10 @@ To be updated soon.
 
 **Key Points**
 
-There will be only one assignment. Please follow the below given instructions:
+There will be a total of 4 assignments. 2 coding assignments and 2 blog based assignmnets.
+
+
+Please follow the below given instructions:
 
 - The students group will pick-up the Topic.
 - Write a Blog Containing:
