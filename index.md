@@ -4,7 +4,7 @@ layout: home
 <h2 style="color: #da7b93;"><b>Course Logistics</b></h2>
 
 - **Lecture Hours:** `Monday [10:00 AM to 10:55 AM] (1 Hr)` and `Wednesday [08:00 AM to 09:55 AM] (2 Hrs)`.
-- **Classroom:** Classes will happen in person in the `NC-311`.
+- **Classroom:** Classes will happen in person in the `NR-213`.
 - **L-T-P & Credits:** `3-0-0` & `3 Credits`.
 
 <h2 style="color: #da7b93;"><b>Mid-Semester Exam Schedule</b></h2>
