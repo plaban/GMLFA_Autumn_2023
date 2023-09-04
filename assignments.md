@@ -19,7 +19,7 @@ Please follow the below given instructions:
     - Theory with good visualization.
     - Code walk through `(Optional)`
     - Video recording of explaining blog (max 15 minutes)
-- Google form will be circuated in due time for submission of assignment.
+- All the asiignments will be submitted through course MS-Teams.
 
 <h2>Topics for Assignment</h2>
 <!-- <p>Click on PDF to open the file: <a title="Download problems (pdf)" href="https://drive.google.com/file/d/1_JRu1NF-f5HPyhz7HcFCxB7VeERGT9or/view?usp=sharing"><i class="fas fa-file-pdf"></i></a></p> -->
